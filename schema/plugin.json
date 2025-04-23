@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyter-pilot",
+  "description": "jupyter-pilot settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
